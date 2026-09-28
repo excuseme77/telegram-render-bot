@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: trading-bot
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -u run.py
+    healthCheckPath: /
+    envVars:
+      - key: MODE
+        value: paper
+      - key: PYTHON_VERSION
+        value: 3.11.9

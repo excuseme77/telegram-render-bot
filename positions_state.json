@@ -1,0 +1,38 @@
+{
+  "HBAR/USDT:USDT|sell": {
+    "symbol": "HBAR/USDT:USDT",
+    "side": "sell",
+    "stop": 0.12537,
+    "take_profit": 0.11799,
+    "peak_pct": 0.0,
+    "entry": 0.12283,
+    "qty": 9.0
+  },
+  "WLD/USDT:USDT|sell": {
+    "symbol": "WLD/USDT:USDT",
+    "side": "sell",
+    "stop": 0.4945,
+    "take_profit": 0.4654,
+    "peak_pct": 0.0,
+    "entry": 0.4847,
+    "qty": 3.0
+  },
+  "PUMPFUN/USDT:USDT|sell": {
+    "symbol": "PUMPFUN/USDT:USDT",
+    "side": "sell",
+    "stop": 0.005223,
+    "take_profit": 0.004916,
+    "peak_pct": 0.0,
+    "entry": 0.005121,
+    "qty": 2.0
+  },
+  "SEI/USDT:USDT|sell": {
+    "symbol": "SEI/USDT:USDT",
+    "side": "sell",
+    "stop": 0.07919,
+    "take_profit": 0.07453,
+    "peak_pct": 0.0,
+    "entry": 0.07767,
+    "qty": 2.0
+  }
+}
